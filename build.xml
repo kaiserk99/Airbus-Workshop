@@ -5,7 +5,7 @@
 		</fileset>
 	</path>
 
-//Update Code
+//Bug corrected
 
 	<target name="clean">
 		<delete dir="build" />
