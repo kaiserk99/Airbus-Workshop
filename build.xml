@@ -5,7 +5,7 @@
 		</fileset>
 	</path>
 
-//Bug corrected
+//Add explanation to property XY
 
 	<target name="clean">
 		<delete dir="build" />
